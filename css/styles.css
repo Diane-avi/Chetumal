@@ -54,6 +54,12 @@ h1, h2, h3 {
 }
 
 /* Hero */
+.hero h1 {
+    color: white;
+    font-family: 'Georgia', cursive;
+    font-style: italic;
+}
+
 .hero {
     text-align: center;
     background: linear-gradient(#0077cc, #66b3ff);
